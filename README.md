@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![flutter workshop](https://user-images.githubusercontent.com/88269367/189521202-6f038c3d-3002-450d-8142-a105180fb1d2.png)
